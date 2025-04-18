@@ -24,4 +24,5 @@
 - seaborn
 
 Установим зависимости:
+```bash
 pip install matplotlib seaborn
